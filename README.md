@@ -1,8 +1,8 @@
-# 🧮 Calculadora CLI em Python
+ Calculadora CLI em Python
 
 Projeto simples de calculadora via terminal desenvolvido em Python.
 
-## 🚀 Funcionalidades
+ Funcionalidades
 
 - Soma
 - Subtração
@@ -10,17 +10,12 @@ Projeto simples de calculadora via terminal desenvolvido em Python.
 - Divisão (com tratamento de erro)
 - Loop contínuo
 
-## 🛠 Tecnologias
+ Tecnologias
 - Python
 
-## 💡 Aprendizados
+Aprendizados
 
 - Estruturas condicionais (if/else)
 - Laços de repetição (while)
 - Tratamento de erros básicos
 - Interação com usuário
-
-## ▶️ Como executar
-
-```bash
-python main.py
